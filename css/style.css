@@ -1,0 +1,72 @@
+.nav-top {
+    background-color: rgb(26, 45, 212) !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+footer {
+    background-color: rgb(26, 45, 212) !important;
+    color: white !important;
+    text-align: center !important;
+}
+
+.car-img {
+    max-height: 40em !important;
+}
+
+.carousel-caption {
+    background-color: rgba(82, 77, 77, 0.739) !important;
+}
+
+.divisao {
+    background-color: rgb(26, 45, 212) !important;
+    text-align: center !important;
+    color: white !important;
+    padding: 2em !important;
+
+}
+
+.sec-pacotes {
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    justify-content: center !important;
+    margin: 1% !important;
+
+
+}
+
+.card {
+    padding: 1% !important;
+    margin: 0% 1% 1% !important;
+}
+
+.card p {
+    text-align: justify !important;
+}
+
+.card h4 {
+    color: brown !important;
+}
+
+.sec-contato {
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+    margin-top: 2rem !important;
+    padding: 2rem;
+    border: 2px solid rgb(72, 73, 82) !important;
+    border-radius: 18px !important;
+    box-shadow: 0 0 10px rgba(26, 45, 221, 0.3) !important;
+}
+
+.links {
+    text-align: center;
+    padding: 1rem;
+    color: black;
+}
+
+.mapa {
+    margin-top: 5% !important;
+}
